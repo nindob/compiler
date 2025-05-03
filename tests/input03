@@ -1,0 +1,15 @@
+char c;
+unsigned u;
+bool b;
+short s;
+long l;
+c = 65;
+u = 42;
+b = 1;
+s = 1234;
+l = 987654321;
+print c;
+print u;
+print b;
+print s;
+print l; 
